@@ -1,8 +1,9 @@
 import  express ,{ Request, Response } from "express";
 import  configuration  from "./app/config/config.load";
-import sequelize from "./app/initialize/database";
+const db = require("./app/models/models/index.js")
 const listEndpoints = require('express-list-endpoints');
 import Router from './app/routes/auth.routes'; 
+
 const app= express();
 
 //Parse Json
@@ -11,11 +12,12 @@ app.use(express.json());
 // parse requests of content-type - application/x-www-form-urlencoded
 app.use(express.urlencoded({ extended: true }));
 
+app.set('jwt-secret-key', 'this is jwt sceret key'); // jwt secret token
+
 app.use(Router);
 
-
 // Authenticate the database connection
-sequelize
+db.sequelize
   .authenticate()
   .then(() => {
     console.log("Connection has been established successfully.");

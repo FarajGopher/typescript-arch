@@ -1,0 +1,25 @@
+2023-08-09T06:13:39.500Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:14:21.461Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:15:20.260Z [31merror[39m: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:16:23.553Z [31merror[39m: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:17:09.769Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:19:30.662Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:20:17.185Z error: 	error while creating usernull
+2023-08-09T06:21:07.819Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T09:23:01.098Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T09:24:19.413Z error: 	error while creating user{"code":3,"message":"incorrect password"}
+2023-08-09T09:24:49.190Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:24:51.863Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:26:10.332Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:27:50.093Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:29:12.607Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:30:36.748Z error: 	[loginController] error while login user{"code":9,"message":"incorrect password"}
+2023-08-09T09:32:57.936Z error: 	[loginController] error while login user{"code":9,"message":"incorrect password"}
+2023-08-09T09:33:40.541Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T09:34:20.342Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T09:36:04.324Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T10:28:36.890Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T12:04:45.546Z error: 	[loginService]:Query-User-Exists-Error User.DELETE is not a function
+2023-08-09T12:04:45.548Z error: 	[loginController] error while login user{"code":2,"message":"database operation error"}
+2023-08-09T12:05:25.899Z error: 	[loginService]:Query-User-Exists-Error User.delete is not a function
+2023-08-09T12:05:25.901Z error: 	[loginController] error while login user{"code":2,"message":"database operation error"}

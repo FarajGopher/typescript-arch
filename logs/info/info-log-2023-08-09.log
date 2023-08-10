@@ -1,0 +1,103 @@
+2023-08-09T06:05:39.852Z info: 	validationResult:{"value":{"firstName":"shubham","lastName":"jasiwal","email":"shubham@gmail.com","password":"string@123"}}
+2023-08-09T06:05:59.428Z info: 	validationResult:{"value":{"firstName":"shiv","lastName":"pratap","email":"shiv@gmail.com","password":"string@123"}}
+2023-08-09T06:05:59.445Z info: 	existing user:
+2023-08-09T06:07:54.437Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:07:54.472Z info: 	existing user:{"id":4,"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123","updatedAt":"2023-08-09T06:07:54.459Z","createdAt":"2023-08-09T06:07:54.459Z"}
+2023-08-09T06:11:46.121Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:13:39.490Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:13:39.499Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:14:21.451Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:14:21.461Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:15:20.250Z [32minfo[39m: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:15:20.260Z [31merror[39m: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:16:23.541Z [32minfo[39m: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:16:23.552Z [31merror[39m: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:17:09.758Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:17:09.769Z error: 	error:{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:19:30.652Z info: 	validationResult:{"value":{"firstName":"yash","lastName":"main jain","email":"yash@gmail.com","password":"string@123"}}
+2023-08-09T06:19:30.662Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T06:20:17.153Z info: 	validationResult:{"value":{"firstName":"nehul","lastName":"bhai","email":"nehul@gmail.com","password":"string@123"}}
+2023-08-09T06:20:17.185Z error: 	error while creating usernull
+2023-08-09T06:20:17.186Z info: 	existing user:{"id":5,"firstName":"nehul","lastName":"bhai","email":"nehul@gmail.com","password":"string@123","updatedAt":"2023-08-09T06:20:17.172Z","createdAt":"2023-08-09T06:20:17.172Z"}
+2023-08-09T06:21:07.810Z info: 	validationResult:{"value":{"firstName":"nehul","lastName":"bhai","email":"nehul@gmail.com","password":"string@123"}}
+2023-08-09T06:21:07.819Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T09:23:01.082Z info: 	validationResult:{"value":{"firstName":"nehul","lastName":"bhai","email":"nehul@gmail.com","password":"string@123"}}
+2023-08-09T09:23:01.098Z error: 	error while creating user{"code":7,"message":"Bad Request: User already exists on this email"}
+2023-08-09T09:23:17.301Z info: 	validationResult:{"value":{"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T09:23:17.319Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","updatedAt":"2023-08-09T09:23:17.307Z","createdAt":"2023-08-09T09:23:17.307Z"}
+2023-08-09T09:24:06.527Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T09:24:06.533Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T09:24:19.406Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:24:19.412Z warn: 	[loginService]:password not matched
+2023-08-09T09:24:19.413Z error: 	error while creating user{"code":3,"message":"incorrect password"}
+2023-08-09T09:24:49.181Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:24:49.189Z warn: 	[loginService]:password not matched
+2023-08-09T09:24:49.190Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:24:51.858Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:24:51.861Z warn: 	[loginService]:password not matched
+2023-08-09T09:24:51.863Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:26:10.319Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:26:10.331Z warn: 	[loginService]:password not matched
+2023-08-09T09:26:10.332Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:27:50.084Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:27:50.092Z warn: 	[loginService]:password not matched
+2023-08-09T09:27:50.093Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:28:09.971Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T09:28:09.978Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T09:29:12.587Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:29:12.602Z warn: 	[loginService]:password not matched
+2023-08-09T09:29:12.603Z error: 	error while creating user{"code":9,"message":"incorrect password"}
+2023-08-09T09:30:36.738Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:30:36.746Z warn: 	[loginService]:password not matched
+2023-08-09T09:30:36.748Z error: 	[loginController] error while login user{"code":9,"message":"incorrect password"}
+2023-08-09T09:32:57.927Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:32:57.935Z warn: 	[loginService]:password not matched
+2023-08-09T09:32:57.936Z error: 	[loginController] error while login user{"code":9,"message":"incorrect password"}
+2023-08-09T09:33:40.530Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:33:40.540Z warn: 	[loginService]:password not matched
+2023-08-09T09:33:40.541Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T09:34:20.325Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:34:20.338Z warn: 	[loginService]:password not matched
+2023-08-09T09:34:20.341Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T09:34:30.635Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T09:34:30.640Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T09:35:28.503Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T09:35:28.514Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T09:36:04.316Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T09:36:04.323Z warn: 	[loginService]:password not matched
+2023-08-09T09:36:04.324Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T10:28:36.878Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@12"}}
+2023-08-09T10:28:36.889Z warn: 	[loginService]:password not matched
+2023-08-09T10:28:36.889Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-09T10:28:40.640Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:28:40.644Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:28:53.436Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:28:53.445Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:30:08.168Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:30:08.177Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:30:56.056Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:30:56.075Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:34:50.193Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:34:50.207Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:35:52.878Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:35:52.889Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:36:48.376Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:36:48.390Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:39:20.830Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:39:20.840Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:40:34.816Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:40:34.827Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:40:53.523Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:40:53.543Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T10:42:35.103Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T10:42:35.113Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T11:04:24.726Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T11:04:24.738Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T11:34:10.562Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T11:34:10.570Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T12:04:36.624Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-09T12:04:36.648Z info: 	existing user:{"id":6,"firstName":"rohit","lastName":"bharti","email":"rohit@gmail.com","password":"string@123","createdAt":"2023-08-09T09:23:17.000Z","updatedAt":"2023-08-09T09:23:17.000Z"}
+2023-08-09T12:04:45.543Z error: 	[loginService]:Query-User-Exists-Error User.DELETE is not a function
+2023-08-09T12:04:45.547Z error: 	[loginController] error while login user{"code":2,"message":"database operation error"}
+2023-08-09T12:05:25.899Z error: 	[loginService]:Query-User-Exists-Error User.delete is not a function
+2023-08-09T12:05:25.900Z error: 	[loginController] error while login user{"code":2,"message":"database operation error"}

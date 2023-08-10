@@ -1,0 +1,3 @@
+2023-08-10T07:29:30.325Z error: 	[loginController] error while login user{"code":1,"message":"Bad Request: User doesn't exists on this email"}
+2023-08-10T07:29:41.716Z error: 	[loginController] error while login user{"code":1,"message":"Bad Request: User doesn't exists on this email"}
+2023-08-10T07:29:46.560Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}

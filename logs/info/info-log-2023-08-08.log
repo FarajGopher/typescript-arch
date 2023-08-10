@@ -1,0 +1,32 @@
+2023-08-08T06:49:15.099Z info: 	validationResult:
+2023-08-08T06:50:03.743Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T06:53:37.504Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T06:54:17.416Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T06:55:01.597Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T06:57:10.822Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T07:03:28.389Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T07:18:12.077Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T07:18:15.797Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T07:33:23.915Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T07:43:34.678Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T07:53:31.703Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T08:00:32.465Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T08:01:01.282Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T08:01:29.568Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T08:01:29.581Z info: 	existing user:
+2023-08-08T10:41:17.164Z info: 	validationResult:{"value":{},"error":{"_original":{},"details":[{"message":"\"firstName\" is required","path":["firstName"],"type":"any.required","context":{"label":"firstName","key":"firstName"}}]}}
+2023-08-08T10:51:28.561Z info: 	validationResult:{"value":{},"error":{"_original":{},"details":[{"message":"\"firstName\" is required","path":["firstName"],"type":"any.required","context":{"label":"firstName","key":"firstName"}}]}}
+2023-08-08T10:55:53.833Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T10:55:53.849Z info: 	existing user:
+2023-08-08T10:58:10.562Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T10:58:10.573Z info: 	existing user:
+2023-08-08T10:58:20.043Z info: 	validationResult:{"value":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"error":{"_original":{"firstName":"faraj","email":"farajtomar@gmail.com","password":"string@123"},"details":[{"message":"\"lastName\" is required","path":["lastName"],"type":"any.required","context":{"label":"lastName","key":"lastName"}}]}}
+2023-08-08T11:12:41.092Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T11:13:34.886Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T11:14:50.442Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T11:21:30.749Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T11:25:01.730Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T12:10:27.723Z info: 	validationResult:{"value":{"firstName":"faraj","lastName":"tomar","email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-08T12:10:42.808Z info: 	validationResult:{"value":{"firstName":"shubham","lastName":"jasiwal","email":"shubham@gmail.com","password":"string@123"}}
+2023-08-08T12:10:42.826Z info: 	existing user:
+2023-08-08T12:10:59.187Z info: 	validationResult:{"value":{"firstName":"shubham","lastName":"jasiwal","email":"shubham@gmail.com","password":"string@123"}}

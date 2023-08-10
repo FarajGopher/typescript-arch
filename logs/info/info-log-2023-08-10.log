@@ -1,0 +1,11 @@
+2023-08-10T07:29:30.299Z info: 	validationResult:{"value":{"email":"rohit@gmail.com","password":"string@123"}}
+2023-08-10T07:29:30.322Z info: 	[loginService]:user doesn't exists
+2023-08-10T07:29:30.324Z error: 	[loginController] error while login user{"code":1,"message":"Bad Request: User doesn't exists on this email"}
+2023-08-10T07:29:41.700Z info: 	validationResult:{"value":{"email":"faraj@gmail.com","password":"string@123"}}
+2023-08-10T07:29:41.715Z info: 	[loginService]:user doesn't exists
+2023-08-10T07:29:41.715Z error: 	[loginController] error while login user{"code":1,"message":"Bad Request: User doesn't exists on this email"}
+2023-08-10T07:29:46.556Z info: 	validationResult:{"value":{"email":"farajtomar@gmail.com","password":"string@123"}}
+2023-08-10T07:29:46.560Z warn: 	[loginService]:password not matched
+2023-08-10T07:29:46.560Z error: 	[loginController] error while login user{"code":3,"message":"incorrect password"}
+2023-08-10T07:29:53.316Z info: 	validationResult:{"value":{"email":"shubham@gmail.com","password":"string@123"}}
+2023-08-10T07:29:53.324Z info: 	existing user:{"id":2,"firstName":"shubham","lastName":"jasiwal","email":"shubham@gmail.com","password":"string@123","createdAt":"2023-08-08T12:10:42.000Z","updatedAt":"2023-08-08T12:10:42.000Z"}
